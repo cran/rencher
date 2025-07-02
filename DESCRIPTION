@@ -1,6 +1,6 @@
 Package: rencher
 Title: Datasets from the Book "Methods of Multivariate Analysis (3rd)"
-Version: 0.1.3
+Version: 0.1.4
 Authors@R: c(
     person("Atefeh Rashidi Pour", "", email = "rashidiatefeh98@gmail.com", role = c("aut", "cre")),
     person("Fatemeh Naderi", "", email = "fatemeh.naderi7999@gmail.com", role = "aut")
@@ -11,10 +11,12 @@ Encoding: UTF-8
 RoxygenNote: 7.3.2
 Depends: R (>= 4.1.0)
 LazyData: true
+URL: https://github.com/AtefehRashidi/rencher
+BugReports: https://github.com/AtefehRashidi/rencher/issues
 NeedsCompilation: no
-Packaged: 2025-05-21 15:40:47 UTC; Administrator
+Packaged: 2025-07-02 19:43:51 UTC; Administrator
 Author: Atefeh Rashidi Pour [aut, cre],
   Fatemeh Naderi [aut]
 Maintainer: Atefeh Rashidi Pour <rashidiatefeh98@gmail.com>
 Repository: CRAN
-Date/Publication: 2025-05-26 08:40:07 UTC
+Date/Publication: 2025-07-02 20:10:02 UTC

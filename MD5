@@ -1,5 +1,6 @@
-4097147fb7719175bd93279f6a6ca681 *DESCRIPTION
+dc49d4be4629a801108ccc5e52e2d211 *DESCRIPTION
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+980e30d5828618694619b7df72294bf7 *NEWS.md
 cde3891c6c5fb4ee0736b612400c78c9 *R/table10.1.R
 61367202806e0407ce47f9635e85bbaa *R/table13.1.R
 7a6727fec007a479cea11bbfe8608cc8 *R/table15.1.R
@@ -48,7 +49,7 @@ ec1947f07e5b9c72d67598a07fa43adc *R/table6.29.R
 db96d05063900fd7a618d609ab9cbe53 *R/table7.2.R
 7b89b988d214eb0d7334e163e92c8622 *R/table8.1.R
 04473ef8d2206a8494148ebddd34b3a5 *R/table8.3.R
-3e322fc4a43fc65640529ecaee1a5eb3 *README.md
+4e00607da835ecd3b989e10d7be86624 *README.md
 96bea6294f73542c147b71d9c2c5e153 *data/table10.1.rda
 90168b5130ae7fb051602a51e48cf50d *data/table13.1.rda
 929ef1c161e68e78e778294029071449 *data/table15.1.rda
@@ -97,8 +98,7 @@ d211b75c6177e2464c336899d03fdadb *data/table7.1.rda
 d58ff091765fb8cf305efc95812d04a1 *data/table7.2.rda
 e7bb439a9cea0242831b8048554dd1dc *data/table8.1.rda
 2ba0e6f555292bdc8c1668abe5d0c2b2 *data/table8.3.rda
-502a5f8dd6ba90060101596366cb7d58 *man/figures/README-pressure-1.png
-8180f91f541ab8168a805afbf5e7404e *man/figures/hex_rencher.png
+e1fc2acbd819d011a40f23f5a5125ba1 *man/figures/hex_rencher.png
 f5d78fbc3f61b192e03cc09d99a4b2a9 *man/table10.1.Rd
 77d241aed91542206e53d6cff3889bbc *man/table13.1.Rd
 57986bcbda00ee0ad54234fa830840b5 *man/table15.1.Rd
