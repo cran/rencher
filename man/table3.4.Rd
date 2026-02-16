@@ -5,16 +5,16 @@
 \alias{table3.4}
 \title{Table 3.4}
 \format{
-A dataframe with 10 rows and 4 columns
+A dataframe with 10 rows and 4 columns.
 \describe{
-\item{LocationNumber}{ID}
-\item{y1}{available soil calcium}
-\item{y2}{exchangeable soil calcium}
-\item{y3}{turnip green calcium}
+\item{LocationNumber}{}
+\item{y1 }{}
+\item{y2 }{}
+\item{y3 }{}
 }
 }
 \source{
-Kramer and Jensen (1969)
+The data set in Table 3.4 Calcium in Soil and Turnip Greens.
 }
 \usage{
 table3.4

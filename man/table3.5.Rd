@@ -5,18 +5,18 @@
 \alias{table3.5}
 \title{Table 3.5}
 \format{
-A dataframe with 46 rows and 6 columns.
+A dataframe with 46 rows and 6 columns
 \describe{
 \item{PatientNumber}{}
-\item{y1 }{}
-\item{y2 }{}
-\item{x1 }{}
-\item{x2 }{}
-\item{x3 }{}
+\item{y1}{}
+\item{y2}{}
+\item{x1}{}
+\item{x2}{}
+\item{x3}{}
 }
 }
 \source{
-Reaven and Miller (1979; see also Andrews and Herzberg 1985, pp. 215-219) measured five variables in a comparison of normal patients and diabetics. In Table 3.5 we give partial data for normal patients only
+Book
 }
 \usage{
 table3.5

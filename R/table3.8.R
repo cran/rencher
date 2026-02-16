@@ -2,7 +2,7 @@
 #'
 #' Table 3.8 Measurements on the First and Second Adult Sons in a Sample of 25 Families
 #'
-#' @format A dataframe with 25 rows and 5 columns
+#' @format A dataframe with 25 rows and 4 columns
 #'\describe{
 #'\item{Group}{First, Second}
 #'\item{y1}{Head Length}
@@ -11,5 +11,5 @@
 #'\item{x2}{Head Breath}
 #' }
 #'
-#' @source  Frets (1921)
+#' @source  Book
 "table3.8"

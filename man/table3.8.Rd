@@ -5,7 +5,7 @@
 \alias{table3.8}
 \title{Table 3.8}
 \format{
-A dataframe with 25 rows and 5 columns
+A dataframe with 25 rows and 4 columns
 \describe{
 \item{Group}{First, Second}
 \item{y1}{Head Length}
@@ -15,7 +15,7 @@ A dataframe with 25 rows and 5 columns
 }
 }
 \source{
-Frets (1921)
+Book
 }
 \usage{
 table3.8
