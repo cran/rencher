@@ -2,7 +2,7 @@
 #'
 #' Table 3.2 Percentage of Republican Votes in Presidential Elections in Six Southern States for Selected Years
 #'
-#' @format A dataframe with 6 rows and 6 columns.
+#' @format A dataframe with 6 rows and 7 columns.
 #' \describe{
 #'  \item{State}{}
 #'   \item{y_1932 }{}

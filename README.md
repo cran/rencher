@@ -4,6 +4,7 @@
 # rencher
 
 <!-- badges: start -->
+
 <!-- badges: end -->
 
 This package provides a collection of Datasets from the Book “Methods of
@@ -18,7 +19,8 @@ You can install the development version from
 install.packages('rencher', dependencies = TRUE)
 ```
 
-You can install the development version from [Github](https://github.com/AtefehRashidi/rencher):
+You can install the development version from
+[GitHub](https://github.com/AtefehRashidi/rencher):
 
 ``` r
 # install.packages("remotes")

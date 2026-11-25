@@ -5,7 +5,7 @@
 \alias{table3.2}
 \title{Table 3.2}
 \format{
-A dataframe with 6 rows and 6 columns.
+A dataframe with 6 rows and 7 columns.
 \describe{
 \item{State}{}
 \item{y_1932 }{}
